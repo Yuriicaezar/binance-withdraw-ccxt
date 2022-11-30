@@ -12,3 +12,4 @@ time.sleep можешь убрать, но с ним более безопасн
 
 Канал : https://t.me/hodlmodeth. 
 Чат для вопросов : https://t.me/code_hodlmodeth.
+тест
